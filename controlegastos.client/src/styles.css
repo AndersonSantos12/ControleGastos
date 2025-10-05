@@ -1,0 +1,109 @@
+/*Estilização global*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Centraliza e define o container principal*/
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/*Estilização dos formulários*/
+.forms {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+/*Espaçamento entre os campos de input*/
+.form-box {
+    flex: 1;
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    min-width: 300px;
+}
+
+/*Layout dos conteúdos*/
+.content {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/*Estilo dos botões*/
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/*Estilo das tabelas*/
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background-color: #45a5d1;
+    color: white;
+}
+
+td {
+    background-color: #6cc6f0;
+    color: #333;
+}
+
+/*Destaque nas receitas e despesas*/
+.receita {
+    color: green;
+}
+
+.despesa {
+    color: red;
+}
+
+/*Estilo dos inputs*/
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}

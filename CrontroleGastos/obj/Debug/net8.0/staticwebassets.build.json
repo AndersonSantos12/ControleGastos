@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AC8O9Y4TCo12pqH8yFFhBmggTL1/ez6cdrcuI5m1egc=",
+  "Source": "CrontroleGastos.Server",
+  "BasePath": "_content/CrontroleGastos.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

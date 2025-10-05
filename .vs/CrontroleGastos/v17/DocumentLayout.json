@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\controlegastos.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\controlegastos.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\CHANGELOG.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\CHANGELOG.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\pages\\AddTransactions.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\pages\\AddTransactions.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\pages\\AddPerson.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\pages\\AddPerson.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\components\\Summary.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\components\\Summary.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\components\\TransactionList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\components\\TransactionList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\components\\PeopleList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:controlegastos.client\\src\\components\\PeopleList.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrontroleGastos\\Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Models\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrontroleGastos\\Models\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Controllers\\SummaryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrontroleGastos\\Controllers\\SummaryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Controllers\\TransactionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrontroleGastos\\Controllers\\TransactionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Controllers\\PersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrontroleGastos\\Controllers\\PersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrontroleGastos\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrontroleGastos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Services\\TransactionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrontroleGastos\\Services\\TransactionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\index.html",
+              "RelativeDocumentMoniker": "controlegastos.client\\index.html",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\index.html",
+              "RelativeToolTip": "controlegastos.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-04T23:46:59.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "controlegastos.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\eslint.config.js",
+              "RelativeToolTip": "controlegastos.client\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-04T23:46:57.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "controlegastos.client.esproj",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\controlegastos.client.esproj",
+              "RelativeDocumentMoniker": "controlegastos.client\\controlegastos.client.esproj",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\controlegastos.client.esproj",
+              "RelativeToolTip": "controlegastos.client\\controlegastos.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-04T23:46:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "controlegastos.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\CHANGELOG.md",
+              "RelativeToolTip": "controlegastos.client\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-04T23:46:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vite-env.d.ts",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\vite-env.d.ts",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\vite-env.d.ts",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\vite-env.d.ts",
+              "RelativeToolTip": "controlegastos.client\\src\\vite-env.d.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-04T23:46:46.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\styles.css",
+              "RelativeToolTip": "controlegastos.client\\src\\styles.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-04T23:46:42.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\main.tsx",
+              "RelativeToolTip": "controlegastos.client\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-04T23:46:37.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "api.ts",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\services\\api.ts",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\services\\api.ts",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\services\\api.ts",
+              "RelativeToolTip": "controlegastos.client\\src\\services\\api.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-04T23:45:30.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\README.md",
+              "RelativeDocumentMoniker": "controlegastos.client\\README.md",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\README.md",
+              "RelativeToolTip": "controlegastos.client\\README.md",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-07T17:45:54.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "CrontroleGastos\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "CrontroleGastos\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:45:30.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "CrontroleGastos\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "CrontroleGastos\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:28:39.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\App.tsx",
+              "RelativeToolTip": "controlegastos.client\\src\\App.tsx",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-07T17:37:44.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PeopleList.tsx",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\components\\PeopleList.tsx",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\components\\PeopleList.tsx",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\components\\PeopleList.tsx",
+              "RelativeToolTip": "controlegastos.client\\src\\components\\PeopleList.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-07T17:09:15.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Summary.tsx",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\components\\Summary.tsx",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\components\\Summary.tsx",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\components\\Summary.tsx",
+              "RelativeToolTip": "controlegastos.client\\src\\components\\Summary.tsx",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAJUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-07T16:45:00.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionList.tsx",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\components\\TransactionList.tsx",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\components\\TransactionList.tsx",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\components\\TransactionList.tsx",
+              "RelativeToolTip": "controlegastos.client\\src\\components\\TransactionList.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-07T17:04:20.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddPerson.tsx",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\pages\\AddPerson.tsx",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\pages\\AddPerson.tsx",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\pages\\AddPerson.tsx",
+              "RelativeToolTip": "controlegastos.client\\src\\pages\\AddPerson.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-07T17:12:25.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddTransactions.tsx",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\pages\\AddTransactions.tsx",
+              "RelativeDocumentMoniker": "controlegastos.client\\src\\pages\\AddTransactions.tsx",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\controlegastos.client\\src\\pages\\AddTransactions.tsx",
+              "RelativeToolTip": "controlegastos.client\\src\\pages\\AddTransactions.tsx",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwH0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-07T17:23:24.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SummaryController.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Controllers\\SummaryController.cs",
+              "RelativeDocumentMoniker": "CrontroleGastos\\Controllers\\SummaryController.cs",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Controllers\\SummaryController.cs",
+              "RelativeToolTip": "CrontroleGastos\\Controllers\\SummaryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:38:56.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "CrontroleGastos\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Models\\Person.cs",
+              "RelativeToolTip": "CrontroleGastos\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:54:49.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "CrontroleGastos\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Models\\Transaction.cs",
+              "RelativeToolTip": "CrontroleGastos\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:01:40.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "CrontroleGastos\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Services\\PersonService.cs",
+              "RelativeToolTip": "CrontroleGastos\\Services\\PersonService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:04:38.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Program.cs",
+              "RelativeDocumentMoniker": "CrontroleGastos\\Program.cs",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Program.cs",
+              "RelativeToolTip": "CrontroleGastos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:22:13.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "CrontroleGastos\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\Anderson\\ControlGProject\\CrontroleGastos\\CrontroleGastos\\Services\\TransactionService.cs",
+              "RelativeToolTip": "CrontroleGastos\\Services\\TransactionService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:14:29.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
